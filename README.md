@@ -1,56 +1,44 @@
-# loocker
 <!DOCTYPE html>
 <html lang="ar">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>احصل على FIFA Coins مجانا 💰</title>
+  <title>🎁 احصل على FIFA Coins مجانا!</title>
   <style>
     body {
-      background: linear-gradient(to bottom right, #0d1b2a, #1b263b);
-      color: white;
+      background: #121212;
+      color: #fff;
       font-family: Arial, sans-serif;
       text-align: center;
-      padding: 40px 20px;
+      padding: 30px;
     }
     h1 {
-      font-size: 28px;
-      margin-bottom: 20px;
-      color: #fcbf49;
+      color: #ffc107;
+      font-size: 26px;
     }
     p {
       font-size: 18px;
-      margin-bottom: 30px;
-    }
-    .btn {
-      background-color: #f77f00;
-      border: none;
-      padding: 15px 30px;
-      font-size: 18px;
-      color: white;
-      border-radius: 8px;
-      cursor: pointer;
-      transition: 0.3s;
-    }
-    .btn:hover {
-      background-color: #e85d04;
+      margin: 20px 0;
     }
     img {
-      max-width: 200px;
-      margin-bottom: 20px;
+      width: 180px;
+      margin-top: 20px;
+    }
+    .locker {
+      margin-top: 30px;
     }
   </style>
 </head>
 <body>
 
+  <h1>🎮 اربح 12,000 FIFA Coins مجانا!</h1>
+  <p>أكمل الخطوات لفتح المكافأة الخاصة بك 👇</p>
+
   <img src="https://i.imgur.com/1Q9Z1Zq.png" alt="FIFA Coins" />
 
-  <h1>🎁 احصل على 12,000 FIFA Coins مجانا!</h1>
-  <p>أكمل خطوة واحدة فقط لفتح المكافأة الخاصة بك 👇</p>
-
-  <div id="locker"></div>
-
-  <script type="text/javascript" src="https://optilinklock.com/script_include.php?id=1823603"></script>
+  <div class="locker" id="locker">
+    <script type="text/javascript" src="https://optilinklock.com/script_include.php?id=1823603"></script>
+  </div>
 
 </body>
 </html>
